@@ -8,7 +8,7 @@
 
 ##### The Web-Cam will capture the hand movement and based on the hand movement it will either start or pause a vedio.
 
-##### The logic of hand movement is available at handtrace/demo/js/index.js
+##### The logic of hand movement is available at handtrack/demo/js/index.js
 
 ##### The Ytube url demonstrating this application is available at:
 

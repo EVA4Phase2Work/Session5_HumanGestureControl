@@ -15,7 +15,7 @@ https://youtu.be/y-xY4BhkGCI
 
 ##### A snapshot of the application is found as below:
 
-![Gesture_Control](/doc_images/misclassified_images_large_quadcopter.png)
+![Gesture_Control](/mages_gesture/HumanGestureControl.gif)
 
 
 

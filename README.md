@@ -15,7 +15,7 @@ https://youtu.be/y-xY4BhkGCI
 
 ##### A snapshot of the application is found as below:
 
-![Gesture_Control](/mages_gesture/HumanGestureControl.gif)
+![Gesture_Control](/images_gesture/HumanGestureControl.gif)
 
 
 

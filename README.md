@@ -10,6 +10,8 @@
 
 ##### The logic of hand movement is available at handtrack/demo/js/index.js
 
+### Note: The logic of pausing/starting of the vedio is  bascially based on the position of the hand in the screen
+
 ##### The Ytube url demonstrating this application is available at:
 
 https://youtu.be/y-xY4BhkGCI

@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+<body> 
+<button onclick="playVideo()" type="button">Play</button>
+<button onclick="pauseVideo()" type="button">Pause</button><br> 
+<video id="myVid" width="400" height="200">
+ <source src="Mbike.mp4" type="video/mp4">
+  Sorry, your browser does not support HTML5 video.
+</video>
+<script> 
+var myVideo = document.getElementById("myVid");
+function playVideo() { 
+ myVideo.play(); 
+} 
+function pauseVideo() { 
+ myVideo.pause(); 
+} 
+</script> 
+</body> 
+</html>
